@@ -21,6 +21,8 @@ padding: 30px;
 }
 
 html, body{
+  padding-left: 30px;
+  padding-top: 10px;
     font-size: 16px;
 }
 
@@ -53,7 +55,11 @@ img {
   font-size:  2em;
 }
 
-.icon, .text{
+.icon {
+  font-size: 6px;
+}
+
+.text{
   padding: 100px;
   margin-bottom: 22px;
   border: 1px solid #000;
